@@ -5,6 +5,8 @@ The purpose of this application was to create a portfolio for my coding projects
 
 [Demo Here](https://cynesthete.github.io/)
 
-![Screenshot]
+![About](./assets/images/TJR_About.png)
+![Portfolio](./assets/images/TJR_Portfolio.png)
+![Contact](./assets/images/TJR_Contact.png)
 
 Authored by Tony Rivas; I watched a [video](https://youtu.be/qmPmwdshCMw) on YouTube to get a better understanding of the Bootstrap Grid, which was made by Academind.
