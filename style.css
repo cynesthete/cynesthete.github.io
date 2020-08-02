@@ -23,3 +23,7 @@ margin-top: 50px;
 #contact-margin {
 margin-top: 100px;
 }
+
+.container_pt-5 {
+    align-items: center;
+}
