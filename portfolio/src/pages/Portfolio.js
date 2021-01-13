@@ -24,7 +24,7 @@ function Portfolio() {
                 About
               </Link>
             </li>
-            <li className="nav-item">
+            <li classsName="nav-item">
               <Link className="nav-link" to="/portfolio">
                 Portfolio
               </Link>

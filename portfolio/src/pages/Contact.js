@@ -4,20 +4,39 @@ import { Link } from "react-router-dom";
 function Contact() {
   return (
     <div>
-      <div class="container">
+      <div className="container">
         {/* <!--Card--> */}
-        <div class="row cyn-row">
-          <div class="col-md-8 col-sm-12 offset-md-2">
-            <div class="card">
+        <div className="row cyn-row">
+          <div className="col-md-8 col-sm-12 offset-md-2">
+            <div className="card">
               <img src="./assets/images/tjrvs_1.jpg" alt="visage" />
-              <div class="card-body">
-                <ul>
-                  <li>
+              <div className="card-body">
+                <div className = "row center">
+                  <div class = "col-sm-3">
                     <a href="https://www.instagram.com/cynesthete/">
-                      Instagram
+                    <i class="fab fa-instagram"></i>
                     </a>
-                  </li>
-                </ul>
+                  </div>
+                  <div class = "col-sm-3">
+                    <a href="https://www.github.com/cynesthete/">
+                    <i class="fab fa-github-square"></i>
+                    </a>
+                  </div>
+                  <div class = "col-sm-3">
+                    <a href="https://www.instagram.com/cynesthete/">
+                    <i class="fab fa-linkedin"></i>
+                    </a>
+                  </div>
+                  <div class = "col-sm-3">
+                    <a href="https://www.instagram.com/cynesthete/">
+                    <i class="far fa-file"></i>
+                    </a>
+                  </div>
+                </div>
+                <br></br>
+                <div class = "row center">
+                  <p>Tony J Rivas // tonyjrivas@gmail.com</p>
+                </div>
               </div>
             </div>
           </div>

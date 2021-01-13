@@ -10,7 +10,7 @@ function About(){
             <div className="col-md-8 col-sm-12 offset-md-2">
                 <div className="card">
                     <div className="card-body">
-                        <img className="float-left" src="/assets/images/tjrvs_1.jpg" alt="TonyJRivas" />
+                        <img id = "mainImage" className="float-left" src="/assets/images/tjrvs_1.jpg" alt="TonyJRivas" />
                         <p>Tony J Rivas is a filmmaker, musician, and programmer with an affinity for audiovisual aesthetics. He holds a MA in Film Studies from Chapman University and a BA in Screenwriting from Westminster College.</p>
                         <p>
                             <span>Recently, Tony wrote, directed, and scored his short film, <a href="https://www.youtube.com/watch?v=bYMnGHmMTjY&t=188s">The Thing From The Hallway</a>, which won the Best Horror Short Award from the Glendale International Film Festival and was an official selection at several others.</span>
