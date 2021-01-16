@@ -4,18 +4,50 @@ import { Link } from "react-router-dom";
 function Portfolio() {
   return (
     <div>
-      <div className="container pt-5">
-        {/* <!--Images--> */}
-        <img src="http://via.placeholder.com/150" />
-        <img className="m-3" src="http://via.placeholder.com/150" />
-        <img src="http://via.placeholder.com/150" />
-        {/* <!--Row 2--> */}
-      </div>
-      <div className="container pt-5">
-        {/* <!--Images--> */}
-        <img src="http://via.placeholder.com/150" />
-        <img className="m-3" src="http://via.placeholder.com/150" />
-        <img src="http://via.placeholder.com/150" />
+      <div className="container">
+        {/* <!--Card--> */}
+        <div className="row cyn-row">
+          <div className="col-md-8 col-sm-12 offset-md-2">
+            <div className="card">
+              <img src="./assets/images/tjrvs_1.jpg" alt="visage" />
+              <div className="card-body">
+                <div className = "row center">
+                  <div class = "col-sm-3">
+                    <a href="https://github.com/cynesthete/jsfundamentalsquiz">
+                    <i class="fab fa-instagram"></i>
+                    </a>
+                  </div>
+                  <div class = "col-sm-3">
+                    <a href="https://github.com/cynesthete/passwordgenerator">
+                    <i class="fab fa-github-square"></i>
+                    </a>
+                  </div>
+                  <div class = "col-sm-3">
+                    <a href="https://github.com/cynesthete/workouttracker">
+                    <i class="fab fa-linkedin"></i>
+                    </a>
+                  </div>
+                  <div class = "col-sm-3">
+                    <a href="https://github.com/cynesthete/employeetracker">
+                    <i class="far fa-file"></i>
+                    </a>
+                  </div>
+                  <div class = "col-sm-3">
+                    <a href="https://github.com/cynesthete/weatherapplication">
+                    <i class="far fa-file"></i>
+                    </a>
+                  </div>
+                  <div class = "col-sm-3">
+                    <a href="https://github.com/cynesthete/notetaker">
+                    <i class="far fa-file"></i>
+                    </a>
+                  </div>
+                </div>
+                <br></br>
+              </div>
+            </div>
+          </div>
+        </div>
         {/* <!--Fixed Bottom--> */}
         <nav className="navbar fixed-bottom navbar-light bg-light justify-content-center">
           <ul className="nav justify-content-center">
