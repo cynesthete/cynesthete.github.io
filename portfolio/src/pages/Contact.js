@@ -23,12 +23,12 @@ function Contact() {
                     </a>
                   </div>
                   <div class = "col-sm-3">
-                    <a href="https://www.instagram.com/cynesthete/">
+                    <a href="https://www.linkedin.com/in/tonyjrivas/">
                     <i class="fab fa-linkedin"></i>
                     </a>
                   </div>
                   <div class = "col-sm-3">
-                    <a href="https://www.instagram.com/cynesthete/">
+                    <a href="https://docs.google.com/document/d/1jKhI8YeFQsg9i_OOUctZp6NxL2IrWkFeV4nO5tXGZrI/edit">
                     <i class="far fa-file"></i>
                     </a>
                   </div>
