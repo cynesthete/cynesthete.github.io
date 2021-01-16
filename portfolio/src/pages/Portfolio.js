@@ -14,33 +14,39 @@ function Portfolio() {
                 <div className = "row center">
                   <div class = "col-sm-3">
                     <a href="https://github.com/cynesthete/jsfundamentalsquiz">
-                    <i class="fas fa-code-branch"></i>
+                    <i class="fab fa-js-square"></i>
                     </a>
+                    <p>JS Fundamentals Quiz</p>
                   </div>
                   <div class = "col-sm-3">
                     <a href="https://github.com/cynesthete/passwordgenerator">
-                    <i class="fas fa-code-branch"></i>
+                    <i class="fas fa-unlock-alt"></i>
                     </a>
+                    <p>Password Generator</p>
                   </div>
                   <div class = "col-sm-3">
                     <a href="https://github.com/cynesthete/workouttracker">
-                    <i class="fas fa-code-branch"></i>
+                    <i class="fas fa-dumbbell"></i>
                     </a>
+                    <p>Workout Tracker</p>
                   </div>
                   <div class = "col-sm-3">
                     <a href="https://github.com/cynesthete/employeetracker">
                     <i class="fas fa-code-branch"></i>
                     </a>
+                    <p>Employee Tracker</p>
                   </div>
                   <div class = "col-sm-3">
                     <a href="https://github.com/cynesthete/weatherapplication">
-                    <i class="fas fa-code-branch"></i>
+                    <i class="fas fa-sun"></i>
                     </a>
+                    <p>Weather Application</p>
                   </div>
                   <div class = "col-sm-3">
                     <a href="https://github.com/cynesthete/notetaker">
-                    <i class="fas fa-code-branch"></i>
+                    <i class="fas fa-pen-alt"></i>
                     </a>
+                    <p>Note Taker Application</p>
                   </div>
                 </div>
                 <br></br>
