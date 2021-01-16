@@ -14,32 +14,32 @@ function Portfolio() {
                 <div className = "row center">
                   <div class = "col-sm-3">
                     <a href="https://github.com/cynesthete/jsfundamentalsquiz">
-                    <i class="fab fa-instagram"></i>
+                    <i class="fas fa-code-branch"></i>
                     </a>
                   </div>
                   <div class = "col-sm-3">
                     <a href="https://github.com/cynesthete/passwordgenerator">
-                    <i class="fab fa-github-square"></i>
+                    <i class="fas fa-code-branch"></i>
                     </a>
                   </div>
                   <div class = "col-sm-3">
                     <a href="https://github.com/cynesthete/workouttracker">
-                    <i class="fab fa-linkedin"></i>
+                    <i class="fas fa-code-branch"></i>
                     </a>
                   </div>
                   <div class = "col-sm-3">
                     <a href="https://github.com/cynesthete/employeetracker">
-                    <i class="far fa-file"></i>
+                    <i class="fas fa-code-branch"></i>
                     </a>
                   </div>
                   <div class = "col-sm-3">
                     <a href="https://github.com/cynesthete/weatherapplication">
-                    <i class="far fa-file"></i>
+                    <i class="fas fa-code-branch"></i>
                     </a>
                   </div>
                   <div class = "col-sm-3">
                     <a href="https://github.com/cynesthete/notetaker">
-                    <i class="far fa-file"></i>
+                    <i class="fas fa-code-branch"></i>
                     </a>
                   </div>
                 </div>
